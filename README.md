@@ -1,1 +1,1 @@
-# Student-Management-System
+# College-Management-System
